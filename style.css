@@ -1,6 +1,15 @@
 body{
-	margin-left: 10em;
-	margin-right: 8em;
-	margin-bottom: 2em;
+	margin-left: 2em;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	margin-top: 2em;
 	background-color: 		#DDA0DD;
+}
+.reseauxSociaux,a{
+	margin-right: 1em;
+}
+
+.competenceTech,i,p{
+	display: inline-block;
+	margin-right: 3em;
 }
