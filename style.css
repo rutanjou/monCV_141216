@@ -1,15 +1,23 @@
-body{
-	margin-left: 2em;
-	margin-right: 1em;
-	margin-bottom: 1em;
-	margin-top: 2em;
-	background-color: 		#DDA0DD;
+* {
+	box-sizing: border-box;
 }
-.reseauxSociaux,a{
-	margin-right: 1em;
+body{
+	background-color: 		#DDA0DD;
+	font-size: 18px;
+}
+.reseauxSociaux, i{
+	margin-left: 1em;
+}
+.nom{
+	margin-left:6em;
+}
+.centreInteret, a{
+color: black;
+}
+.competenceLangue, i{
+	display: inline-block;
+}
+.passionEntrepreneuriat,ul{
+	text-decoration: none;
 }
 
-.competenceTech,i,p{
-	display: inline-block;
-	margin-right: 3em;
-}
